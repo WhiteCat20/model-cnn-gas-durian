@@ -1,0 +1,1 @@
+model cnn gas durian by Faiz Rahmadani
